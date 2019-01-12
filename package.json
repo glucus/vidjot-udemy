@@ -1,0 +1,22 @@
+{
+  "name": "vidjot-udemy",
+  "version": "1.0.0",
+  "description": "app for video ideas (express)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glucus/vidjot-udemy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glucus/vidjot-udemy/issues"
+  },
+  "homepage": "https://github.com/glucus/vidjot-udemy#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
